@@ -61,10 +61,9 @@ vvp sim_fa
 
 Multiplier:
 
-```
 iverilog -g2012 -o sim tb/tb_mult.v rtl/full_adder.v rtl/mult_array.v
 vvp sim
 gtkwave mult.vcd
-```
+
 
 Commands for the remaining steps will be added as they are run.
