@@ -1,2 +1,0 @@
-PASS: 8 vectors checked, 0 errors
-tb/tb_full_adder.v:37: $finish called at 80000 (1ps)
