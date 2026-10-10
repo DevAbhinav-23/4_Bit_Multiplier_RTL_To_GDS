@@ -1,6 +1,6 @@
 # 4-bit Array Multiplier: RTL to GDSII
 
-Individual VLSI assignment: a 4-bit x 4-bit unsigned array multiplier (8-bit product), registered inputs and outputs (2-cycle latency), taken from RTL through synthesis, STA and place and route on SkyWater SKY130 (`sky130_fd_sc_hd`).
+DVD assignment: a 4-bit x 4-bit unsigned array multiplier (8-bit product), registered inputs and outputs (2-cycle latency), taken from RTL through synthesis, STA and place and route on SkyWater SKY130 (`sky130_fd_sc_hd`).
 
 ## File structure
 
