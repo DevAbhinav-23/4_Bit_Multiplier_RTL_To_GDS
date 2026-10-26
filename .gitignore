@@ -1,3 +1,16 @@
+# Everything not in the required file architecture (handout Section 5)
+
+# Assignment handout
+RTL_to_GDS.pdf
+
+# Simulation outputs
 sim_mult
 gls
+mult.vcd
+
+# LibreLane run folders
 pnr/runs/
+
+# Supporting files for the report (only report/report.pdf is submitted)
+report/*
+!report/report.pdf
